@@ -1,39 +1,36 @@
-# Khotwa Trainee Project ✨
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to the **Khotwa Trainee Project**! This project is designed for trainees to create a **mini product**, honing their skills in development, problem-solving, and innovation. this product will be dileverd in **2 January 2025** by Khotwa trainee.
+## Getting Started
 
-## Objective
+First, run the development server:
 
-The goal of this project is to:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- Provide hands-on experience in product development.
-- Enhance the trainee's technical and creative skills.
-- Foster teamwork and independent problem-solving abilities.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project Requirements
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-1. **Mini Product Idea**:
-   - The trainee must brainstorm and propose a concept for their mini product.
-   - The product should solve a specific problem or meet a user need.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-2. **Development**:
-   - Implement the product using the provided tools and technologies.
-   - Follow best practices for clean and maintainable code.
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-## Guidelines
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- Ensure the product aligns with the project objectives.
-- Meet the deadlines provided during the training program.
-- Seek feedback regularly to refine the product.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deliverables
+## Deploy on Vercel
 
-- Fully functional mini product.
-- Presentation showcasing the product and development process.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## Support
-
-For any questions or assistance, feel free to reach out to the Khotwa training team. 
-
-Happy coding! 🥳🎉
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
